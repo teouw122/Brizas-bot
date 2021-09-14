@@ -40,7 +40,6 @@ return `
 ┃ ${p}ping
 ┃ ${p}destrava
 ┃ ${p}sugerircmd (txt)
-┃ ${p}terbot
 ┃ ${p}blocklist
 ┃ ${p}blacklist
 ┃ ${p}criador
@@ -78,6 +77,10 @@ return `
 ┃ ${p}gpvotostatus
 ┃ ${p}gpvoto
 ┃ ${p}gpvotofinish
+┣━━━🙋‍♂️ 𝘽𝙊𝘼𝙎 𝙑𝙄𝙉𝘿𝘼𝙎 🙋‍♂️━━━╮
+┃ ${p}byeadd (texto)
+┃ ${p}welcomeadd (texto)
+┃ ${p}welcomehelp
 ┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
 ┃ ${p}checkativo (dial)
 ┃ ${p}rankativo
@@ -92,6 +95,17 @@ return `
 ┃ ${p}deletelevel
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
+┣━━━━🎮 𝙂𝘼𝙈𝙀𝙎 𝙓𝙋 🎮━━━━╮
+┃ ${p}jogatina (1 or 0)
+┃ ${p}stealrandom 
+┃ ${p}steal (dial number)
+┃ ${p}cassino 
+┃ ${p}flip 
+┃ ${p}doarxp (xp) (dial number) 
+┃ ${p}roletarandom
+┃ ${p}roletaneg
+┃ ${p}roletapos
+┃ ${p}flip 
 ┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
 ┃ ${p}rmlimituser
 ┃ ${p}resetlimit
@@ -248,10 +262,6 @@ return `
 ┃ ${p}neon (t1) | (t2)
 ┃ ${p}sunset (t1) | (t2)
 ┃ ${p}gimage (txt)
-┃ ${p}pglass (txt)
-┃ ${p}neonligth (txt)
-┃ ${p}coffe (txt)
-┃ ${p}galaxywp (txt)
 ┃ ${p}whatis (txt)
 ┃ ${p}txt3d (txt)
 ┣━━━━━📷 𝙁𝙊𝙏𝙊𝙎 📷━━━━╮
@@ -293,17 +303,12 @@ return `
 ┃ ${p}pinterest (name)
 ┃ ${p}wallpaper
 ┃ ${p}fuckmylife
-┃ ${p}waifu
 ┃ ${p}belle
 ┃ ${p}saycat
 ┃ ${p}biblia
-┃ ${p}animesrc (name anime)
-┃ ${p}mangasrc (name anime)
 ┃ ${p}playstore (name app)
 ┃ ${p}happymod (name app)
-┃ ${p}pokemon
 ┃ ${p}ip (ip)
-┃ ${p}signome (name)
 ┃ ${p}gimage (name)
 ┣━━⏳ 𝘾𝙊𝙉𝙏𝘼𝙂𝙀𝙈 ⏳━━╮
 ┃ ${p}halloween (ano)
@@ -325,24 +330,13 @@ return `
 ┃ ${p}packmega18
 ┃ ${p}nhentai ❮code❯
 ┃ ${p}randomhentai
-┃ ${p}gangbang
 ┃ ${p}nsfwblowjob
-┃ ${p}panties
-┃ ${p}wallhentai
-┃ ${p}tentacles
 ┃ ${p}nsfwneko
 ┃ ${p}nsfwtrap
 ┃ ${p}nsfw (1 or 0)
-┃ ${p}yaoi
-┃ ${p}ahegao
-┃ ${p}ecchi
-┃ ${p}cum
 ┃ ${p}anal
-┃ ${p}pussy
-┃ ${p}ero
-┃ ${p}ahegao
+┃ ${p}cum
 ┃ ${p}yuri
-┃ ${p}hentaigif
 ┃ ${p}hentainekogif
 ┃ ${p}futanari
 ┃ ${p}nsfwfeet
@@ -370,7 +364,6 @@ return `
 ┃ ${p}play (music name)
 ┃ ${p}playv2 (music name)
 ┃ ${p}tomp3 (cap, resp vid)
-┃ ${p}ytsearch (name)
 ┃ ${p}ytsrc (name)
 ┃ ${p}ytmp4 (yt url)
 ┃ ${p}ytmp3 (yt url)
@@ -386,7 +379,6 @@ return `
 ┃ ${p}cpf
 ┃ ${p}ddd (ddd)
 ┃ ${p}cep (cep)
-┃ ${p}gerarcc
 ┃ ${p}gprocesso
 ┣━━━━━━🧾 𝙏𝙀𝙓𝙏𝙊 🧾━━━━╮
 ┃ ${p}nameninja (name)
@@ -403,22 +395,11 @@ return `
 ┃ ${p}db
 ┣━━━━━🇯🇵 𝘼𝙉𝙄𝙈𝙀𝙎 🇯🇵━━━━╮
 ┃ ${p}randomanime
-┃ ${p}randomshota
 ┃ ${p}randomkiss
-┃ ${p}randomcry
 ┃ ${p}randomhug
 ┃ ${p}nekoanime
 ┃ ${p}wait (cap, resp vid)
 ┃ ${p}slap
-┃ ${p}smile
-┃ ${p}piscada
-┃ ${p}dance
-┃ ${p}cringe
-┃ ${p}blush
-┃ ${p}gore
-┃ ${p}acenar
-┃ ${p}lick
-┃ ${p}bully
 ┃ ${p}kemonomimi
 ┣━━━👾 𝘾𝙊𝘿𝙄𝙂𝙊𝙎 👾━━━╮
 ┃ ${p}txtomorse (txt)
@@ -462,9 +443,7 @@ return `
 ┃ ${p}instastalk (name)
 ┃ ${p}githubstalk (name)
 ┃ ${p}tiktokstalk (name)
-┃ ${p}twitterstalk (name)
 ┃ ${p}ffstalk (id ff)
-┃ ${p}ytstalk (name)
 ┣━━━😳 𝙄𝙉𝙏𝙀𝙍𝘼𝘾̧𝘼̃𝙊 😳━━━╮
 ┃ ${p}vsf
 ┃ ${p}botfofo
