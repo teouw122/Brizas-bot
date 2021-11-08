@@ -51,7 +51,8 @@
     "request": "^2.81.0",
     "reverse-image-search-google": "^1.0.3",
     "spinnies": "^0.5.1",
-    "translatte": "^2.5.8"
+    "translatte": "^2.5.8",
+    "ytdl-core": "^4.9.1"
   },
   "repository": {
     "type": "git",
