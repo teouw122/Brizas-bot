@@ -100,13 +100,13 @@ Obs: O número de mensagens pode estar impreciso devido a contagem ser pelo bot.
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
+const banmsgporn = 'Mhhhh anti porno è attivato addio arrapato di merda'
 // mensagem de ban no antiporn
 
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra Membro comum, O ban está próximo...'
+const banmsglink = 'Brutto coglione che cazzo spammi leccapalle'
 // mensagem de ban no antilink
 
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
