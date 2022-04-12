@@ -12,10 +12,10 @@ return `
 ┃
 ┃ 📷 Instagram: @teo._exe
 ┃
-┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
+┃ 🤖Github:
 ┃ 🌐teouw122
 ┃
-┃ 🪀𝐆𝐫𝐮𝐩𝐨:
+┃ 🪀Gruppo:
 ┃ 🌐https://chat.whatsapp.com/L0rqNgcXHeHDwCwUXtR4Ti
 ┃
 ┃
