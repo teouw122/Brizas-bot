@@ -1,14 +1,14 @@
 const help = (p, date, user, wame) => {
 return `
 ╭━━━━━━━━━━━━━━━━━━━╮
-┃☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+┃☄️✨Teo bot✨☄️
 ┃  
 ┃ 🕐 Data e ora: ${date}
 ┃ 🙂 Nome: ${user}
 ┃ 🌎 Wame: 
 ┃ ${wame}                                       
 ┃
-┣━━ 🤩 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰𝑨𝑰𝑺 🤩 ━╮
+┣━━ 🤩 Contatti 🤩 ━╮
 ┃
 ┃ 📷 Instagram: @teo._exe
 ┃
@@ -19,7 +19,7 @@ return `
 ┃ 🌐https://chat.whatsapp.com/L0rqNgcXHeHDwCwUXtR4Ti
 ┃
 ┃
-┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
+┣━━━⚡ Comandi principali ⚡━━━╮
 ┃ ${p}brizasapi
 ┃ ${p}listblockcmd
 ┃ ${p}listpalavra
@@ -39,7 +39,7 @@ return `
 ┃ ${p}blacklist
 ┃ ${p}criador
 ┃ ${p}toimg (leg, resp img)
-┣━━━━✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨━━━━╮
+┣━━━━✨ Sticker✨━━━━╮
 ┃ ${p}stiker (leg, resp img)
 ┃ ${p}sticker (leg, resp img)
 ┃ ${p}csticker (leg, resp img)
@@ -72,7 +72,7 @@ return `
 ┃ ${p}unblock (num)
 ┃ ${p}msginfo
 ┃ ${p}chatinfo
-┣━━━━🗳️ 𝙑𝙊𝙏𝙊 🗳️━━━━╮
+┣━━━━🗳️ Votazioni 🗳️━━━━╮
 ┃ ${p}votohelp
 ┃ ${p}votoinit
 ┃ ${p}clearvoto
@@ -85,7 +85,7 @@ return `
 ┃ ${p}gpvotostatus
 ┃ ${p}gpvoto
 ┃ ${p}gpvotofinish
-┣━━━🙋‍♂️ 𝘽𝙊𝘼𝙎 𝙑𝙄𝙉𝘿𝘼𝙎 🙋‍♂️━━━╮
+┣━━━🙋‍♂️ Benvenuto 🙋‍♂️━━━╮
 ┃ ${p}byeadd (texto)
 ┃ ${p}welcomeadd (texto)
 ┃ ${p}welcomehelp
@@ -95,15 +95,15 @@ return `
 ┃ ${p}atividade
 ┃ ${p}filtroativo
 ┃ ${p}banativos
-┣━━━━━🔇 𝙈𝙐𝙏𝘼𝙍 🔇━━━━━╮
+┣━━━━━🔇 Mutare 🔇━━━━━╮
 ┃ ${p}mute (marcar)
 ┃ ${p}desmute (marcar)
 ┃ ${p}mutados
-┣━━━━━💫 𝙇𝙀𝙑𝙀𝙇 💫━━━━━╮
+┣━━━━━💫 Livello💫━━━━━╮
 ┃ ${p}deletelevel
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
-┣━━━━🎮 𝙂𝘼𝙈𝙀𝙎 𝙓𝙋 🎮━━━━╮
+┣━━━━🎮 Giochi 🎮━━━━╮
 ┃ ${p}jogatina (1 or 0)
 ┃ ${p}stealrandom 
 ┃ ${p}steal (dial number)
@@ -119,7 +119,7 @@ return `
 ┃ ${p}resetlimit
 ┃ ${p}limitcmd (1 or 0)
 ┃ ${p}mylimit
-┣━━━━━❌ 𝘼𝙉𝙏𝙄 ❌━━━━━╮
+┣━━━━━❌ Prevenzione❌━━━━━╮
 ┃ ${p}antidoc (1 or 0)
 ┃ ${p}antiloc (1 or 0)
 ┃ ${p}antiimg (1 or 0)
@@ -133,7 +133,7 @@ return `
 ┃ ${p}antifake (1 or 0)
 ┃ ${p}dontback (1 or 0)
 ┃ ${p}antilinkhard (1 or 0)
-┣━━━━👥 𝙂𝙍𝙐𝙋𝙊𝙎 👥━━━╮
+┣━━━━👥 Gruppi 👥━━━╮
 ┃ ${p}listfake
 ┃ ${p}listbr
 ┃ ${p}listddd (country code)
@@ -213,7 +213,7 @@ return `
 ┃ ${p}beatiful
 ┃ ${p}affect
 ┃ ${p}ad
-┣━━💥 𝙍𝙊𝙇𝙀𝙏𝘼 𝙍𝙐𝙎𝙎𝘼 💥━━╮
+┣━━💥 Rulette russa💥━━╮
 ┃ ${p}helproleta
 ┃ ${p}roletarussahard
 ┃ ${p}roletarussamed
@@ -227,7 +227,7 @@ return `
 ┃ ${p}ttthelp
 ┃ ${p}delttc
 ┃ ${p}tictactoe
-┣━━━━━🎥 𝙑𝙄́𝘿𝙀𝙊 🎥━━━━╮
+┣━━━━━🎥 Video 🎥━━━━╮
 ┃ ${p}bold (txt)
 ┃ ${p}poly (txt)
 ┃ ${p}glowing (txt)
@@ -240,7 +240,7 @@ return `
 ┃ ${p}lentovid (resp video)
 ┃ ${p}togif (resp video)
 ┃ ${p}resizevid (lag) (alt) (resp vid)
-┣━━━━━🎨 𝙇𝙊𝙂𝙊𝙎 🎨━━━━╮
+┣━━━━━🎨Loghi 🎨━━━━╮
 ┃ ${p}nulis (txt)
 ┃ ${p}undgrass (txt)
 ┃ ${p}love (txt)
@@ -273,7 +273,7 @@ return `
 ┃ ${p}gimage (txt)
 ┃ ${p}whatis (txt)
 ┃ ${p}txt3d (txt)
-┣━━━━━📷 𝙁𝙊𝙏𝙊𝙎 📷━━━━╮
+┣━━━━━📷 Foto 📷━━━━╮
 ┃ ${p}backremove (leg, resp img)
 ┃ ${p}cropimg (lag) (alt) (resp img)
 ┃ ${p}bwimg (resp img)
@@ -283,7 +283,7 @@ return `
 ┃ ${p}monochromeimg (resp img)
 ┃ ${p}resizeimg (lag) (alt) (resp img)
 ┃ ${p}blurimg (rad) (sig) (resp img)
-┣━━━━🔍 𝙋𝙀𝙎𝙌𝙐𝙄𝙎𝘼 🔎━━━╮
+┣━━━━🔍 Cercare🔎━━━╮
 ┃ ${p}pensador (autor)
 ┃ ${p}xvideos (name)
 ┃ ${p}thumbzilla (name)
@@ -335,7 +335,7 @@ return `
 ┃ ${p}pascoa (ano)
 ┃ ${p}natal (ano)
 ┃ ${p}anonovo
-┣━━━━━😈 𝙋𝙊𝙍𝙉𝙊 😈━━━━╮
+┣━━━━━😈Porno 😈━━━━╮
 ┃ ${p}packmega18
 ┃ ${p}nhentai ❮code❯
 ┃ ${p}randomhentai
@@ -357,14 +357,14 @@ return `
 ┃ ${p}eroneko
 ┃ ${p}erokitsune
 ┃ ${p}spank
-┣━━━━🗣️ 𝙑𝙊𝙕 𝙈𝙊𝘿 🗣️━━━━╮
+┣━━━━🗣️Modificatore della voce 🗣️━━━━╮
 ┃ ${p}esquilo (resp audio)
 ┃ ${p}grave (resp audio)
 ┃ ${p}estourar (resp audio)
 ┃ ${p}rapidoaudio (resp audio)
 ┃ ${p}lentoaudio (resp audio)
 ┃ ${p}bass (resp audio)
-┣━━━━━🎵 𝘼𝙐𝘿𝙄𝙊 🎵━━━╮
+┣━━━━━🎵 Audio 🎵━━━╮
 ┃ ${p}shazam (resp audio)
 ┃ ${p}gtts (la) (txt)
 ┃ ${p}playlist
@@ -389,7 +389,7 @@ return `
 ┃ ${p}ddd (ddd)
 ┃ ${p}cep (cep)
 ┃ ${p}gprocesso
-┣━━━━━━🧾 𝙏𝙀𝙓𝙏𝙊 🧾━━━━╮
+┣━━━━━━🧾 Testo 🧾━━━━╮
 ┃ ${p}nameninja (name)
 ┃ ${p}fakeidentity
 ┃ ${p}installbot
@@ -402,7 +402,7 @@ return `
 ┃ ${p}frase
 ┃ ${p}wppim
 ┃ ${p}db
-┣━━━━━🇯🇵 𝘼𝙉𝙄𝙈𝙀𝙎 🇯🇵━━━━╮
+┣━━━━━🇯🇵Anime 🇯🇵━━━━╮
 ┃ ${p}randomanime
 ┃ ${p}randomkiss
 ┃ ${p}randomhug
@@ -415,7 +415,7 @@ return `
 ┃ ${p}morsetotxt (txt)
 ┃ ${p}ebinary (txt)
 ┃ ${p}dbinary (txt)
-┣━━━━🏆 𝙍𝘼𝙉𝙆𝙄𝙉𝙂𝙎 🏆━━━╮
+┣━━━━🏆Livelli 🏆━━━╮
 ┃ ${p}ranklindo
 ┃ ${p}rankfeio
 ┃ ${p}rankgado
@@ -425,7 +425,7 @@ return `
 ┃ ${p}rankfofo
 ┃ ${p}rankotaku
 ┃ ${p}rankgay
-┣━━━🔮 𝙋𝙍𝙀𝙑𝙄𝙎𝙊𝙀𝙎 🔮━━╮
+┣━━━🔮 Previsione 🔮━━╮
 ┃ ${p}ship (num1) (num2)
 ┃ ${p}corno (num1)
 ┃ ${p}nazista (num1)
@@ -440,7 +440,7 @@ return `
 ┃ ${p}gostoso (num1)
 ┃ ${p}gostosa (num1)
 ┃ ${p}randomship (n1, n/a)
-┣━━━━📱 𝙌𝙍 𝘾𝙊𝘿𝙀 📱━━━━╮
+┣━━━━📱Codice qr 📱━━━━╮
 ┃ ${p}qrcode (txt)
 ┃ ${p}qrcodebg (txt)
 ┃ ${p}qrcodegb (txt)
@@ -448,11 +448,11 @@ return `
 ┃ ${p}qrcodebb1 (txt)
 ┃ ${p}qrcoderb (txt)
 ┃ ${p}qrcodebr (txt)
-┣━━━━🕵️ 𝙎𝙏𝘼𝙇𝙆𝙀𝙍 🕵️━━━╮
+┣━━━━🕵️Stalker 🕵️━━━╮
 ┃ ${p}instastalk (name)
 ┃ ${p}githubstalk (name)
 ┃ ${p}tiktokstalk (name)
-┣━━━😳 𝙄𝙉𝙏𝙀𝙍𝘼𝘾̧𝘼̃𝙊 😳━━━╮
+┣━━━😳 Interazione 😳━━━╮
 ┃ ${p}vsf
 ┃ ${p}botfofo
 ┃ ${p}pedro
