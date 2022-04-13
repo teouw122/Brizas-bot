@@ -103,13 +103,13 @@ const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensag
 const banmsgporn = 'Mhhhh anti porno è attivato addio arrapato di merda'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
+const adminmsgporn = '*Tu sei un admin e puoi mandare porno*'
 // mensagem de quando adm manda porn com antiporn ativado
 
 const banmsglink = 'Brutto coglione che cazzo spammi leccapalle'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Tu sei un admin e puoi mandare link ritieniti fortunato 🙃'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -138,10 +138,10 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro, tente novamente :/'
+const msgerr = 'Riprova a scrivere il comando :/'
 // mensagem de erro
 
-const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
+const notregister = `*Comando non registrato, per vedere la lista dei comandi scrivi ${prefix}menu*`
 
 // MENSAGENS DE AUTOREPLY
 
@@ -166,10 +166,10 @@ let mess = {
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
-        Iv: '❌ Link inválido ❌'
+        Iv: '❌ Link invalido ❌'
     },
     only: {
-        group: '❌ Este comando só pode ser usado em grupos! ❌',
+        group: '❌ Questo comando può essere usato solo nei gruppi! ❌',
         ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
         ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
         admin: '❌ Zitto coglione questo comando è solo per gli admin❌',
