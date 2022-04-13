@@ -15,8 +15,7 @@ return `
 ┃ 🤖Github:
 ┃ 🌐teouw122
 ┃
-┃ 🪀Gruppo:
-┃ 🌐https://chat.whatsapp.com/L0rqNgcXHeHDwCwUXtR4Ti
+┃ Owner number:http://wa.me/3197010288451
 ┃
 ┃
 ┣━━━⚡ Comandi principali ⚡━━━╮
