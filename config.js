@@ -1,7 +1,7 @@
-const ownerNumber = ["3197010288451@s.whatsapp.net"] 
+const ownerNumber = ["393913625887@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '3197010288451' 
+const OriginalOwner = '393913625887' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
@@ -171,9 +171,9 @@ let mess = {
     only: {
         group: '❌ Questo comando può essere usato solo nei gruppi! ❌',
         ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
-        ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
+        ownerB: '❌ PFFF cosa pensi di fare comando è solo per il creatore del bot! ❌',
         admin: '❌ Zitto coglione questo comando è solo per gli admin❌',
-        Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
+        Badmin: '❌Svegliati dio cane metti il bot admin per eseguire questo comando ❌'
     }
 }
 
