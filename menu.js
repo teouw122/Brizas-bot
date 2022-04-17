@@ -18,8 +18,6 @@ return `
 ┃ Owner number:http://wa.me/19144083102
 ┃
 ┃
-┃Desy biondina 
-┃Giovanna schiava
 ┃
 ┣━━━⚡ Comandi principali ⚡━━━╮
 ┃ ${p}brizasapi
