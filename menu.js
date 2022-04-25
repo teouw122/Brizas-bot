@@ -15,7 +15,7 @@ return `
 ┃ 🤖Github:
 ┃ 🌐teouw122
 ┃
-┃ Owner number:http://wa.me/19144083102
+┃ discord:teo-)#0866
 ┃
 ┃
 ┃
