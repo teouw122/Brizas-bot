@@ -23,7 +23,7 @@ const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 
 const limitqnt = 9999
 
-const delayantispamcmd = 3
+const delayantispamcmd = 1
 //tempo de delay do antispamcmd (medido por segundos)
 
 const delaystealcmd = 60
