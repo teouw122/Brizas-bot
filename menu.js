@@ -52,7 +52,7 @@ return `
 ┃ ${p}nfsticker (pack) (author)
 ┃ ${p}nfsticker (pack) (author)
 ┃ ${p}rename (pack) (author)
-┣━━━━😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎━━━━╮
+┣━━━━😎 Comandi dell'owner😎━━━━╮
 ┃ ${p}blockcmd (cmd sem prefix)
 ┃ ${p}unblockcmd (cmd sem prefix)
 ┃ ${p}alerta (txt)
@@ -89,7 +89,7 @@ return `
 ┃ ${p}byeadd (texto)
 ┃ ${p}welcomeadd (texto)
 ┃ ${p}welcomehelp
-┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
+┣━━━━━⏱️ Contatori ⏱️━━━━━╮
 ┃ ${p}checkativo (dial)
 ┃ ${p}rankativo
 ┃ ${p}atividade
@@ -114,7 +114,7 @@ return `
 ┃ ${p}roletaneg
 ┃ ${p}roletapos
 ┃ ${p}flip 
-┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
+┣━━━━━⏳ Limiti ⏳━━━━╮
 ┃ ${p}rmlimituser
 ┃ ${p}resetlimit
 ┃ ${p}limitcmd (1 or 0)
@@ -176,7 +176,7 @@ return `
 ┃ ${p}ttp4 (txt)
 ┃ ${p}ttp5 (txt)
 ┃ ${p}ttp6 (txt)
-┣━━━━🎨 𝙀𝙁𝙀𝙄𝙏𝙊𝙎 🎨━━━━╮
+┣━━━━🎨 Effetti🎨━━━━╮
 ┃ obs: coloque "me"
 ┃ ou marque alguém
 ┃
@@ -189,7 +189,7 @@ return `
 ┃ ${p}greyscale 
 ┃ ${p}lgbt 
 ┃ ${p}blur
-┣━━━🖌️ 𝙈𝙊𝙉𝙏𝘼𝙂𝙀𝙉𝙎 🖌️━━╮
+┣━━━🖌️ Montaggi 🖌️━━╮
 ┃ obs: coloque "me"
 ┃ ou marque alguém
 ┃
@@ -219,7 +219,7 @@ return `
 ┃ ${p}roletarussamed
 ┃ ${p}roletarussaeasy
 ┃ ${p}roletarussapac
-┣━#️⃣ 𝙅𝙊𝙂𝙊 𝘿𝘼 𝙑𝙀𝙇𝙃𝘼 #️⃣━╮
+┣━#️⃣ Gioco #️⃣━╮
 ┃ ${p}ttt (dificulty)
 ┃ ${p}coord (coordenada)
 ┃ ${p}tttme
@@ -410,7 +410,7 @@ return `
 ┃ ${p}wait (cap, resp vid)
 ┃ ${p}slap
 ┃ ${p}kemonomimi
-┣━━━👾 𝘾𝙊𝘿𝙄𝙂𝙊𝙎 👾━━━╮
+┣━━━👾 Codici 👾━━━╮
 ┃ ${p}txtomorse (txt)
 ┃ ${p}morsetotxt (txt)
 ┃ ${p}ebinary (txt)
@@ -470,7 +470,7 @@ return `
 ┃ ${p}boanoite
 ┃ ${p}lindo
 ┃ ${p}cheguei
-┣━━━━😝 𝘿𝙄𝙑𝙀𝙍𝙎𝘼̃𝙊 😝━━━╮
+┣━━━━😝 Comandi vari 😝━━━╮
 ┃ ${p}papel
 ┃ ${p}pedra
 ┃ ${p}tesoura
@@ -478,7 +478,6 @@ return `
 ┃ ${p}meme
 ┃ ${p}memeindo
 ┃ ${p}darkjokes
-┣━━━━💱 𝙈𝙊𝙀𝘿𝘼 💱━━━━━╮
 ┃ ${p}dolarhoje
 ┃ ${p}rublohoje
 ┃ ${p}ienehoje
